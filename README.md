@@ -115,27 +115,3 @@ npm run dev
   }
 ]
 ```
-
----
-
-## ✅ Assignment Requirements Met
-
-- [x] Schema validation
-- [x] Business logic: availability on borrow
-- [x] Aggregation for borrow summary
-- [x] Static method: `updateAvailability`
-- [x] Middleware: `pre('save')` for borrow
-- [x] Filtering and sorting in book list
-
-## 📹 Bonus (Optional)
-
-- Add a short video explanation
-- Add Postman collection
-
----
-
-## ✍️ Author
-
-Made with 💻 for assignment in Express + TypeScript + MongoDB course.
-
-Feel free to customize further!
